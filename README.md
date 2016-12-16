@@ -7,10 +7,9 @@ This project is aim to develop system software for IoT systems, including perfor
   <tr><td>Lab1</td><td>Practice for using GitHub</td></tr>
   <tr><td>Lab2</td><td>Basic Arduino & python programming</td></tr>
   <tr><td>Lab3</td><td>Single device IoT applications</td></tr>
-  <tr><td>Lab4</td><td>Setup WuKong system</td></tr>
-  <tr><td>Lab5</td><td>Develop an application with python device</td></tr>
-  <tr><td>Lab6</td><td>Develop an application with WuDevice</td></tr>
-  <tr><td>Lab7</td><td>Z-Wave Lab</td></tr>
-  <tr><td>Lab8</td><td>Develop application with Multiple Gateways</td></tr>
-  <tr><td>Lab9</td><td>AWSIoT</td></tr>
+  <tr><td>Lab4</td><td>Develop an application with python device</td></tr>
+  <tr><td>Lab5</td><td>Develop an application with WuDevice</td></tr>
+  <tr><td>Lab6</td><td>Z-Wave Lab</td></tr>
+  <tr><td>Lab7</td><td>Develop application with Multiple Gateways</td></tr>
+  <tr><td>Lab8</td><td>AWSIoT</td></tr>
 </table>
