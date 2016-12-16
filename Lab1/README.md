@@ -1,2 +1,2 @@
-<center><h1>Lab1 - Create a Github Account</h1></center>
+<h1>Lab1 - Create a Github Account</h1>
 
