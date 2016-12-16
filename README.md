@@ -5,7 +5,7 @@ This project is aim to develop system software for IoT systems, including perfor
 
 <table>
   <tr><td>Lab1</td><td>Practice for using GitHub</td></tr>
-  <tr><td>Lab2</td><td><a rhref="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab2"> Basic Arduino & python programming</a></td></tr>
+  <tr><td>Lab2</td><td><a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab2"> Basic Arduino & python programming</a></td></tr>
   <tr><td>Lab3</td><td>Single device IoT applications</td></tr>
   <tr><td>Lab4</td><td>Develop an application with python device</td></tr>
   <tr><td>Lab5</td><td>Develop an application with WuDevice</td></tr>
