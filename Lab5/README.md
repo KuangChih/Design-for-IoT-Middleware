@@ -16,4 +16,4 @@
 <h3>3. LED</h3>
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/LED.jpg"  width="130" height="250">
 <h3>4.Touch Pad</h3>
-<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/Touch%20Pad.jpg"  width="150" height="200">
+<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/Touch%20Pad.jpg"  width="130" height="200">
