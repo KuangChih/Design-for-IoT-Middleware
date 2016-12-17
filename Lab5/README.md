@@ -1,5 +1,8 @@
 <h1>Lab5 - Develop an application with WuDevice<h1>
-<h2>Preparation</h2>
+<h2>Outline</h2>
+<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab5#Hardware preparation">Hardware Preparation</a>
+<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab5#Spreparation"
+<h2>Hardware Preparation</h2>
 <h3>1. WuDevice</h3>
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/WuDevice.jpg" width="380" height="220">
 <pre>‣ AVR Atmega2560
@@ -17,3 +20,4 @@
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/LED.jpg"  width="100" height="180">
 <h3>4.Touch Pad</h3>
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/Touch%20Pad.jpg"  width="100" height="150">
+<h2>Software Preparation</h2>
