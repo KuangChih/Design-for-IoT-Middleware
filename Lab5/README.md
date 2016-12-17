@@ -1,7 +1,7 @@
 <h1>Lab5 - Develop an application with WuDevice<h1>
 <h2>Outline</h2>
-<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab5#Hardware preparation">Hardware Preparation</a>
-<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab5#Spreparation"
+<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/README.md#hardware-preparation">• Hardware Preparation</a>
+<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/README.md#software-preparation">• Software Preparation</a>
 <h2>Hardware Preparation</h2>
 <h3>1. WuDevice</h3>
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/WuDevice.jpg" width="380" height="220">
