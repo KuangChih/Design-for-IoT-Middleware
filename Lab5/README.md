@@ -14,6 +14,6 @@
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/FTDI%20connector.jpg" width="500" height="150">
 <pre>Connect your PC to the Wudevice.</pre>
 <h3>3. LED</h3>
-<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/LED.jpg"  width="150" height="250">
+<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/LED.jpg"  width="130" height="250">
 <h3>4.Touch Pad</h3>
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/Touch%20Pad.jpg"  width="150" height="200">
