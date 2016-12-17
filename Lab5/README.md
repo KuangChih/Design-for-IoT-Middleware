@@ -18,6 +18,6 @@
 <h3>4.Touch Pad</h3>
 <img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/Touch%20Pad.jpg"  width="130" height="200">
 <video width="320" height="240" controls>
-  <source src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab5/Lab5.mp4" type="video/mp4">
+  <source src="https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwiM6ZjwtfrQAhWBgLwKHXxgBhgQtwIIKDAA&url=https%3A%2F%2Fwww.w3.org%2F2010%2F05%2Fvideo%2Fmediaevents.html&usg=AFQjCNGy46ls5gtKd1U1z8Gbv0nt156O3g&sig2=jobSmagG-0rV3anHuc-iEw" type="video/mp4">
   Your browser does not support the video tag.
 </video>
