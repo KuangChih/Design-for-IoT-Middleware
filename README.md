@@ -3,9 +3,10 @@ System Design Topic - Design for IoT Middleware
 
 This project is aim to develop system software for IoT systems, including performance requirement design for IoT systems, middleware design, virtual machine and runtime for IoT devices, performance optimization for IoT middleware, and simulator for IoT services.
 
-|#|Lab|Discription|
-|:---:|:---:|:----:|
-|Lab1(/Lab1/)||
+|Lab|Discription|
+|:---:|:----:|
+|Lab1|[Practice for using GitHub](/Lab1)|
+
 <table>
   <tr><td>Lab1</td><td><a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab1">Practice for using GitHub</a></td></tr>
   <tr><td>Lab2</td><td><a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab2">Basic Arduino & python programming</a></td></tr>
