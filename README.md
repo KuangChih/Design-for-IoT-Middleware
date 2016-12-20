@@ -6,6 +6,14 @@ This project is aim to develop system software for IoT systems, including perfor
 |Lab|Discription|
 |:---:|:----:|
 |Lab1|[Practice for using GitHub](/Lab1)|
+|Lab2|[Basic Arduino & python programming](/Lab2)|
+|Lab3|[Single device IoT applications](/Lab3)|
+|Lab4|[Develop an application with python device](/Lab4)|
+|Lab5|[Develop an application with WuDevice](/Lab5)|
+|Lab6|[Z-Wave Lab]|
+|Lab7|[Develop application with Multiple Gateways]|
+|Lab8|[AWSIoT]|
+
 
 <table>
   <tr><td>Lab1</td><td><a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab1">Practice for using GitHub</a></td></tr>
