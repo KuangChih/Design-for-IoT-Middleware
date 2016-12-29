@@ -1,0 +1,5 @@
+<WuKong>
+	<WuClass name="Binary_Sensor" appCanCreateInstances="false">
+		<CreateInstance />
+	</WuClass>
+</WuKong>
