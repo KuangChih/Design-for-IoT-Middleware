@@ -16,8 +16,12 @@ Objective
 The goal is to build an IoT network that communicate between zwave device and udp device.
 The message between the devices in different gateway will be transmitted by their gateways.
 ```
+
 ##Wukong Topologic
-<img src="WuKong Topologic.png" ><br/>
+<img src="./img/WuKong Topologic.png" ><br/>
+
+##Communicate Between Different Radio
+<img src="./img/Communicate Between Different Radio.png" ><br/>
 
 Software Preparation
 --------------------
