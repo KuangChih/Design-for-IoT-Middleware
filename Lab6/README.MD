@@ -26,7 +26,18 @@
 <img src="./img/WuDiagram.png" width="500"><br/>
 
 ##Software
-
+###Wuclasses for Z-wave Device
+```
+cd <wkroot>/src/config/wunode
+vim enabled_wuclasses.xml
+```
+```xml
+<WuKong>
+	<WuClass name="Binary_Sensor" appCanCreateInstances="false">
+		<CreateInstance />
+	</WuClass>
+</WuKong>
+```
 ###udpdevice_light_actuator.py
 
 ##Hardware
