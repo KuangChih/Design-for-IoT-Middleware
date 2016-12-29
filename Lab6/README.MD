@@ -5,8 +5,6 @@
   * [Wuclasses for Z-wave Device](#wuclasses-for-z-wave-device)
   * [Light Actuator Code](#light-actuator-code)
 * [Hardware](#hardware)
-  * WuDevice
-  * Z-Wave Dongle
 * [Implementation](#implementation)
 
 ##Objective
@@ -67,10 +65,6 @@ else:
 |WuDevice|Edison|
 |:------:|:----:|
 |<img src="./img/WuDevice.jpg" width="300" height="180">|<img src="./img/Intel Edison.jpg" width="300" height="180">|
-
-
-
-###Z-Wave Dongle
 
 ##Implementation
 
