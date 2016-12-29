@@ -10,10 +10,9 @@
 * [Implementation](#implementation)
 
 ##Objective
-```
 The goal is to build an IoT network that communicate between **zwave device** and **udp device**.
 The message between the devices in different gateway will be **transmitted by their gateways**.
-```
+
 <img src="./img/Lab6.gif" ><br/>
 
 ###Wukong Topologic
