@@ -1,9 +1,8 @@
 #Z-Wave Lab
 ##Outline
 * [Objective](#objective)
-
 * [Software](#software)
-  * WuClass
+  * WuClass
   * [Light Actuator Code](#light-actuator-code)
 * [Hardware](#hardware)
   * WuDevice
