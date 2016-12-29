@@ -1,6 +1,7 @@
 #Z-Wave Lab
 ##Outline
 * [Objective](#objective)
+
 * [Software Preparation](#software-preparation)
   * udpdevice_light_actuator.py
 * [Hardware Preparation](#hardware-preparation)
@@ -10,14 +11,14 @@
 
 Objective
 --------------------
-|<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab6/img/Lab6.gif" align="center"><br/>|
-|:-----:|
+<img src="./img/Lab6.gif" ><br/>
 ```
-The goal is to build an IoT network that connect between zwave device and udp device.
-Master is on PC.
-WuDevice gateway connect to PC by zwave.
-Edison gateay connect to PC by udp wifi.
-``` 
+The goal is to build an IoT network that communicate between zwave device and udp device.
+The message between the devices in different gateway will be transmitted by their gateways.
+```
+##Wukong Topologic
+<img src="WuKong Topologic.png" ><br/>
+
 Software Preparation
 --------------------
 ###udpdevice_light_actuator.py
