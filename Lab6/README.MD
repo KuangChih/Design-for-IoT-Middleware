@@ -2,16 +2,17 @@
 ##Outline
 * [Objective](#objective)
 
-* [Software Preparation](#software-preparation)
+* [Software](#software)
   * udpdevice_light_actuator.py
-* [Hardware Preparation](#hardware-preparation)
+* [Hardware](#hardware)
   * WuDevice
   * Z-Wave Dongle
 * [Implementation](#implementation)
 
 ##Objective
- * The goal is to build an IoT network that communicate between <b>zwave device</b></font> and <b>udp device</b>.<br/>
- * The message between the devices in different gateway will be <b>transmitted by their gateways</b>.<br/>
+ * The goal is to build an IoT network that communicate between <b>zwave device</b></font> and <b>udp device</b>.
+ * The message between the devices in different gateway will be <b>transmitted by their gateways</b>.
+ * Use two gateways with different radio let two devices with different radio can communicate with each other.
 
 <img src="./img/Lab6.gif" ><br/>
 
@@ -21,11 +22,14 @@
 ###Communicate Between Different Radio
 <img src="./img/Communicate Between Different Radio.png" width="500"><br/>
 
-##Software Preparation
+###WuDiagram
+<img src="./img/WuDiagram.png" width="500"><br/>
+
+##Software
 
 ###udpdevice_light_actuator.py
 
-##Hardware Preparation
+##Hardware
 
 ###WuDevice
 <img src="./img/WuDevice.jpg" width="380" height="220">
