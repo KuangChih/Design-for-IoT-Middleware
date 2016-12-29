@@ -10,7 +10,7 @@
 
 Objective
 --------------------
-<img src="./Lab6.gif">
+<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab6/img/Lab6.gif" >
 
 Software Preparation
 --------------------
