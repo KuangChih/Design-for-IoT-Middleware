@@ -5,7 +5,7 @@ This project is aim to develop system software for IoT systems, including perfor
 
 |Lab|Discription|
 |:---:|:----:|
-|Lab1|<a href="https://github.com/KuangChih/Design-for-IoT-Middleware/tree/master/Lab1">Lab1</a>|
+|Lab1|[Practice for using GitHub](/Lab1)|
 |Lab2|[Basic Arduino & python programming](/Lab2)|
 |Lab3|[Single device IoT applications](/Lab3)|
 |Lab4|[Develop an application with python device](/Lab4)|
@@ -13,4 +13,3 @@ This project is aim to develop system software for IoT systems, including perfor
 |Lab6|[Z-Wave Lab](/Lab6)|
 |Lab7|[Develop application with Multiple Gateways]|
 |Lab8|[AWSIoT]|
-[Practice for using GitHub](/Lab1)
