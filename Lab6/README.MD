@@ -49,12 +49,10 @@ if cnt % 2 == 0:
     digital_write(self.light_R, 0)
 else:
     digital_write(self.light_R, 1)
-
 if (cnt >> 1) % 2 == 0:
     digital_write(self.light_G, 0)
 else:
     digital_write(self.light_G, 1)
-
 if (cnt >> 2) % 2 == 0:
     digital_write(self.light_B, 0)
 else:
