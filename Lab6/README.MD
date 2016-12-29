@@ -18,10 +18,10 @@ The message between the devices in different gateway will be transmitted by thei
 ```
 
 ##Wukong Topologic
-<img src="./img/WuKong Topologic.png" ><br/>
+<img src="./img/WuKong Topologic.png" width="500"><br/>
 
 ##Communicate Between Different Radio
-<img src="./img/Communicate Between Different Radio.png" ><br/>
+<img src="./img/Communicate Between Different Radio.png" width="500"><br/>
 
 Software Preparation
 --------------------
