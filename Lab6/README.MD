@@ -27,12 +27,12 @@
 
 ##Software
 ###Wuclasses for Z-wave Device
-Command : Create enabled_wuclasses.xml in wunode directory
+Command : Create **enabled_wuclasses.xml** in wunode directory
 ```
 cd <wkroot>/src/config/wunode
 vim enabled_wuclasses.xml
 ```
-enabled_wuclasses.xml
+**enabled_wuclasses.xml**
 ```xml
 <WuKong>
 	<WuClass name="Binary_Sensor" appCanCreateInstances="false">
