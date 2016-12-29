@@ -10,7 +10,7 @@
 
 Objective
 --------------------
-
+<img src="./Lab6.gif">
 
 Software Preparation
 --------------------
