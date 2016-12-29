@@ -10,8 +10,8 @@
 * [Implementation](#implementation)
 
 ##Objective
-The goal is to build an IoT network that communicate between <b>zwave device</b></font> and <b>udp device</b>.
-The message between the devices in different gateway will be <b>transmitted by their gateways</b>.
+The goal is to build an IoT network that communicate between <b>zwave device</b></font> and <b>udp device</b>.<br/>
+The message between the devices in different gateway will be <b>transmitted by their gateways</b>.<br/>
 
 <img src="./img/Lab6.gif" ><br/>
 
