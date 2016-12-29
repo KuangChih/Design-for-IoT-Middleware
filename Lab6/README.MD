@@ -10,7 +10,7 @@
 
 Objective
 --------------------
-<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab6/img/Lab6.gif" align="center">
+<img src="https://github.com/KuangChih/Design-for-IoT-Middleware/blob/master/Lab6/img/Lab6.gif" align="center"><br/>
  The goal is to build an IoT network that connect between zwave device and udp device.
  Master is on PC.
  WuDevice gateway connect to PC by zwave.
