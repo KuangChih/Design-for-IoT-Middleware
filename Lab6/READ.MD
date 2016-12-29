@@ -6,8 +6,8 @@
   * Z-Wave Dongle
 *Implementation(#Implementation)
 
-#Software Preparation
+Software Preparation
 
-#Hardware Preparation
+Hardware Preparation
 
-#Implementation
+Implementation
