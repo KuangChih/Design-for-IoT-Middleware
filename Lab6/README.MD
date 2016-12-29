@@ -15,7 +15,7 @@ Software Preparation
 Hardware Preparation
 --------------------
 ###WuDevice
-![width="380" height="220"](./img/WuDevice.jpg "WuDevice")
+![WuDevice](./img/WuDevice.jpg =380x220 "WuDevice")
 ###Z-Wave Dongle
 
 Implementation
