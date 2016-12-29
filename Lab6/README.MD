@@ -9,7 +9,7 @@
   * Z-Wave Dongle
 * [Implementation](#implementation)
 
-Objective
+##Objective
 --------------------
 <img src="./img/Lab6.gif" ><br/>
 ```
@@ -17,22 +17,22 @@ The goal is to build an IoT network that communicate between zwave device and ud
 The message between the devices in different gateway will be transmitted by their gateways.
 ```
 
-##Wukong Topologic
+###Wukong Topologic
 <img src="./img/WuKong Topologic.png" width="500"><br/>
 
-##Communicate Between Different Radio
+###Communicate Between Different Radio
 <img src="./img/Communicate Between Different Radio.png" width="500"><br/>
 
-Software Preparation
+##Software Preparation
 --------------------
 ###udpdevice_light_actuator.py
 
-Hardware Preparation
+##Hardware Preparation
 --------------------
 ###WuDevice
 <img src="./img/WuDevice.jpg" width="380" height="220">
 
 ###Z-Wave Dongle
 
-Implementation
+##Implementation
 --------------------
