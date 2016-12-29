@@ -3,7 +3,8 @@
 * [Objective](#objective)
 
 * [Software](#software)
-  * udpdevice_light_actuator.py
+  * WuClass
+  * [Light Actuator Code](#light-actuator-code)
 * [Hardware](#hardware)
   * WuDevice
   * Z-Wave Dongle
@@ -35,12 +36,35 @@ vim enabled_wuclasses.xml
 [**enabled_wuclasses.xml**](./enabled_wuclasses.xml)
 ```xml
 <WuKong>
-	<WuClass name="Binary_Sensor" appCanCreateInstances="false">
-		<CreateInstance />
-	</WuClass>
+    <WuClass name="Binary_Sensor" appCanCreateInstances="false">
+        <CreateInstance />
+    </WuClass>
 </WuKong>
 ```
-###udpdevice_light_actuator.py
+###Light Actuator Code
+[**udpdevice_light_actuator.py**](./udpdevice_light_actuator.py)
+Python Code (Only Important Part)
+```python
+if val == True:
+if cnt % 2 == 0:
+    digital_write(self.light_R, 0)
+else:
+    digital_write(self.light_R, 1)
+
+if (cnt >> 1)%2 == 0:
+    digital_write(self.light_G, 0)
+else:
+    digital_write(self.light_G, 1)
+
+if (cnt >> 2)%2 == 0:
+    digital_write(self.light_B, 0)
+else:
+    digital_write(self.light_B, 1)
+if cnt < 7:
+    cnt = cnt + 1
+else:
+    cnt = 0
+```
 
 ##Hardware
 
