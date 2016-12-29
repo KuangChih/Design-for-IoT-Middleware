@@ -33,7 +33,7 @@ Command : Create [**enabled_wuclasses.xml**](./enabled_wuclasses.xml) in wunode 
 cd <wkroot>/src/config/wunode
 vim enabled_wuclasses.xml
 ```
-[**enabled_wuclasses.xml**](./enabled_wuclasses.xml)
+[**enabled_wuclasses.xml**](./enabled_wuclasses.xml)<br/>
 ```xml
 <WuKong>
     <WuClass name="Binary_Sensor" appCanCreateInstances="false">
@@ -42,7 +42,7 @@ vim enabled_wuclasses.xml
 </WuKong>
 ```
 ###Light Actuator Code
-[**udpdevice_light_actuator.py**](./udpdevice_light_actuator.py)
+[**udpdevice_light_actuator.py**](./udpdevice_light_actuator.py)<br/>
 Python Code (Only Important Part)
 ```python
 if val == True:
