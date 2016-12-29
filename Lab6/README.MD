@@ -64,9 +64,11 @@ else:
 ```
 
 ##Hardware
+|WuDevice|Edison|
+|:------:|:----:|
+|<img src="./img/WuDevice.jpg" width="300" height="180">|<img src="./img/Intel Edison.jpg" width="300" height="180">|
 
-###WuDevice
-<img src="./img/WuDevice.jpg" width="380" height="220">
+
 
 ###Z-Wave Dongle
 
