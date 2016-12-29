@@ -2,7 +2,7 @@
 ##Outline
 * [Objective](#objective)
 * [Software](#software)
-  * [Wuclasses for Z-wave Device](wuclasses-for-z-wave-device)
+  * [Wuclasses for Z-wave Device](#wuclasses-for-z-wave-device)
   * [Light Actuator Code](#light-actuator-code)
 * [Hardware](#hardware)
   * WuDevice
