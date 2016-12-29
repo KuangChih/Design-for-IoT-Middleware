@@ -1,17 +1,21 @@
 #Z-Wave Lab
 ##Outline
-* [Software Preparation](#Software)
+* [Software Preparation](#Software Preparation)
   * udpdevice_light_actuator.py
-* [Hardware Preparation](#Hardware)
+* [Hardware Preparation](#Hardware Preparation)
   * WuDevice
   * Z-Wave Dongle
-* Implementation(#Implementation)
+* [Implementation](#Implementation)
+
 
 Software Preparation
 --------------------
+###udpdevice_light_actuator.py
 
 Hardware Preparation
 --------------------
+###WuDevice
+###Z-Wave Dongle
 
 Implementation
 --------------------
