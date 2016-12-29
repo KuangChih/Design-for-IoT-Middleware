@@ -10,8 +10,8 @@
 * [Implementation](#implementation)
 
 ##Objective
-<font face="Consolas">The goal is to build an IoT network that communicate between <font color="red"><b>zwave device</b></font> and <font color="red"><b>udp device<b></font>.
-The message between the devices in different gateway will be **transmitted by their gateways**.</font>
+<font face="Consolas">The goal is to build an IoT network that communicate between <font color="red"><b>zwave device</b></font> and <font color="red"><b>udp device</b></font>.
+The message between the devices in different gateway will be <b>transmitted by their gateways</b>.</font>
 
 <img src="./img/Lab6.gif" ><br/>
 
