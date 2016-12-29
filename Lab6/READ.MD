@@ -1,4 +1,5 @@
 #Z-Wave Lab
+##Outline
 * [Software Preparation](#Software Preparation)
   * udpdevice_light_actuator.py
 * [Hardware Preparation](#Hardware Preparation)
@@ -7,7 +8,10 @@
 *Implementation(#Implementation)
 
 Software Preparation
+--------------------
 
 Hardware Preparation
+--------------------
 
 Implementation
+--------------------
