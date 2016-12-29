@@ -10,6 +10,6 @@ This project is aim to develop system software for IoT systems, including perfor
 |Lab3|[Single device IoT applications](/Lab3)|
 |Lab4|[Develop an application with python device](/Lab4)|
 |Lab5|[Develop an application with WuDevice](/Lab5)|
-|Lab6|[Z-Wave Lab]|
+|Lab6|[Z-Wave Lab](/Lab6)|
 |Lab7|[Develop application with Multiple Gateways]|
 |Lab8|[AWSIoT]|
