@@ -2,8 +2,8 @@
 ##Outline
 * [Objective](#objective)
 * [Software](#software)
-  * WuClass
-  * [Light Actuator Code](#light-actuator-code)
+  * [Wuclasses for Z-wave Device](wuclasses-for-z-wave-device)
+  * [Light Actuator Code](#light-actuator-code)
 * [Hardware](#hardware)
   * WuDevice
   * Z-Wave Dongle
